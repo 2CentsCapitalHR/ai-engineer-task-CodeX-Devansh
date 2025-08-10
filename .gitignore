@@ -1,0 +1,15 @@
+# Ignore the local knowledge base (it's large and can be regenerated)
+adgm_faiss_index_local/
+
+# Ignore Python's cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+.venv/
+
+.env
+
+# Ignore OS-specific files
+.DS_Store
