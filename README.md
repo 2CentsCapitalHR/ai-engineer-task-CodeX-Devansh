@@ -1,11 +1,11 @@
-# 🤖 ADGM-Compliant Corporate Agent
+# ADGM-Compliant Corporate Agent
 
 This project is an intelligent AI-powered legal assistant designed to review, validate, and help prepare documentation for business incorporation and compliance within the Abu Dhabi Global Market (ADGM) jurisdiction.
 The agent leverages a Retrieval-Augmented Generation (RAG) pipeline to ensure its analysis is grounded in official ADGM legal documents, providing accurate, context-aware feedback. It runs entirely on a local machine, ensuring complete data privacy.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 *   **Document Checklist Verification:** Automatically checks if all mandatory documents for a legal process (like Company Incorporation) are present in the user's submission.
 *   **AI-Powered Red Flag Detection:** Uses a local RAG pipeline with **Llama 3** to analyze `.docx` files clause-by-clause.
@@ -17,7 +17,7 @@ The agent leverages a Retrieval-Augmented Generation (RAG) pipeline to ensure it
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 *   **UI Framework:** Streamlit
 *   **Backend Logic:** Python 3.9+
@@ -29,7 +29,7 @@ The agent leverages a Retrieval-Augmented Generation (RAG) pipeline to ensure it
 
 ---
 
-## 🚀 Setup and Usage Instructions
+## Setup and Usage Instructions
 
 Follow these steps to set up and run the Corporate Agent on your local machine.
 
